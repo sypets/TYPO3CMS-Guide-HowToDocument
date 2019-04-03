@@ -53,6 +53,7 @@ Writing Documentation
    WritingDocForExtension/Index
    WritingDocsOfficial/Index
    RenderingDocs/Index
+   WriteGoodContent/Index
    Tools/Index
    Appendix/Index
    UsefulLinks
