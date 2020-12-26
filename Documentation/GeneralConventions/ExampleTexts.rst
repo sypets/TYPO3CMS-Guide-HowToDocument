@@ -139,4 +139,7 @@ Menu
 *  *required*: Should contain "Sitemap", typically as last item. The file name
    should be :file:`Documentation/Sitemap.rst` (which is already the convention
    in most official manuals
+*  Should not contain "Linktargets". There should be a link to the link targets
+   on the start page as described above. The filename should be
+   :file:`Documentation/Targets.rst`.
 
